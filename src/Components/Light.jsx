@@ -22,6 +22,8 @@ function Light(){
         <button className="bg-red-500 text-white text-3xl px-3 py-2 ml-20 rounded mt-[20px]" onClick={handleOn} >ON</button>
         <button className="bg-red-500 text-white text-3xl rounded px-3 py-2 ml-3" onClick={handleOff} >OFF</button>
         
+        
+        
         </div>
     </div>
 }
